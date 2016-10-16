@@ -60,6 +60,7 @@ qq群的实用性与娱乐性是一样重要的 群多水一下 混个脸熟嘛
 
 
 
+
 ### 工具
 （不要纠结在工具上，选择自己顺手的）
 #### 常用
@@ -69,6 +70,8 @@ qq群的实用性与娱乐性是一样重要的 群多水一下 混个脸熟嘛
 - [InletexEMC](http://www.inletex.ca/)（就是开会时候的那个共享屏幕的软件 群文件里有）
 - chrome/firefox + （开发者调试工具，使用频率最高，好玩的插件好多）
 - wamp/xampp（有更好的选择的另说）
+- lanter等 （必备翻墙软件）
+
 
 #### 前端
 - npm
@@ -77,9 +80,13 @@ qq群的实用性与娱乐性是一样重要的 群多水一下 混个脸熟嘛
 - webstorm（可选）
 
 #### 后端
-- sublime等
-- wamp
-- phpstorm/pystorm/intelliJ IDEA
+- sublime等轻巧编辑器
+- phpstorm/pystorm/intelliJ IDEA/android studio/VSCode 等ide（通常jetbrain家出版的ide都很智能，微软的也很棒）
+- postman （后端调试数据接口的神器，前端不写代码一样可以与后端对接）
+- fiddler （http抓包工具，更好的分析请求的细节）
+- Git （版本控制，代码回滚等作用，用来下载别人在github上的开源项目）
+- filezilla，或者putty （ftp工具和远程服务器控制工具，如果你在使用服务器，那么这个必然用到）
+- 一款好的数据库可视化操作软件也会让你开发效率增速（navicat，robomongo等等）
 
 
 根据自己的开发语言选择工具
@@ -120,6 +127,12 @@ Javascript教程 已加入es6和node 很棒 ，python git的教程也推荐大�
 
 ### 后端：
 
+- 没必要迷信某一个和某一些网站，因为它给不了你所有想要的。
+- 学一门技术或者框架最直接的就去看官方api文档，如果有相应的官方项目也一定要撸完它，去github上去找相应的开源项目实践（这个很重要！）。
+- 看一些不错的博客教程（我通常习惯临时去查，而不是先存好一个人的博客地址）
+- [码农场](http://www.hankcs.com/)自然语言处理和算法
+- [爱酷学习网](http://www.icoolxue.com/)上面一些有名气的培训机构的培训视频
+
 
 ### 书籍推荐（图书馆都有）：
 #### 前端：
@@ -127,9 +140,17 @@ Javascript教程 已加入es6和node 很棒 ，python git的教程也推荐大�
 - [JavaScript高级程序设计（第3版）](http://book.douban.com/subject/10546125/)
 
 ### 后端： 
+- spring in action 第四版
+- Netty权威指南
+- java并发编程实战
+- node入门：《了不起的node》，过度：《node.js项目实践 构建可扩展的web应用》，进阶：《深入浅出node》
+- 算法竞赛入门（第二版）
+- 《大型网站技术架构 核心原理与案例分析》
+- 这么推荐是推荐不完的，建议学什么领域就去网上查一查，相应的经典又读之有物的翻来覆去就那几本。
 
 更多资源工具图书参考[这里](https://github.com/JacksonTian/fks/blob/master/README.md)
 [还有这里](https://www.zhihu.com/question/20241338)
 [这里](https://github.com/foru17/front-end-collect)
+
 ## 结语：
-一起进步
+编程是学无止境的，自己要养成适合自己的学习方法和体系（一门技术怎么开始去学？如何实践？如何做好？），才能在快速迭代的互联网中站稳脚跟，一起加油吧！
